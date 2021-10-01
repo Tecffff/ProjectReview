@@ -1,0 +1,230 @@
+#cabecalho {
+	background-color: pink;
+	color: white;
+	height: 100px;
+	font-family: Fantasy;
+}
+
+
+
+.topnav input[type=text] {
+	float: left;
+	padding: 6px;
+	margin-top: 8px;
+	margin-right: 16px;
+	border: 1px solid black;
+	font-size: 17px;
+	
+
+}
+
+.topnav a {
+	float: center;
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+	
+}
+
+	.topnav a:hover {
+		background-color: #F08AA9;
+		color: white;
+	}
+
+	.topnav a.active {
+		background-color: #2196F3;
+		color: white;
+	}
+
+#rodape {
+	background-color: black;
+	color: white;
+	height: 50px;
+	text-shadow: black 0.1em 0.1em 0.2em;
+	font-family: Fantasy;
+	font-size: 18px;
+}
+
+#corpo{
+
+}
+
+#quarto2{
+	background-image: url("imagem/corpo4.jpg");
+	min-height: 150px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 750px;
+	right: 800px;
+}
+
+#quarto1 {
+	background-image: url("imagem/corpo3.jpg");
+	min-height: 100px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 800px;
+	right: 900px;
+	
+}
+
+
+#quarto2 a {
+	font-size: 40px;
+	color: white;
+	font-family: Fantasy;
+}
+
+.preto1 {
+	background-color: black;
+	font-family: Fantasy;
+	color: white;
+	height: 600px;
+	right: 500px;
+	min-height: 10px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.preto1 a {
+	font-size: 40px;
+	color: white;
+	font-family: Fantasy;
+}
+
+#quarto1 a {
+	font-size: 40px;
+	color: white;
+	font-family: Fantasy;
+	text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+#quarto2 a {
+	font-size: 40px;
+	color: white;
+	font-family: Fantasy;
+	text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+img{
+	width: 700px;
+	height: 400px;
+	right: 300px;
+}
+
+.img1 {
+	background-image: url("imagem/quarto.jpg");
+	min-height: 100px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 800px;
+	right: 900px;
+}
+
+.img2 {
+	background-image: url("imagem/quarto1.jpg");
+	min-height: 100px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 800px;
+	right: 900px;
+}
+
+.img3 {
+	background-image: url("imagem/quarto2.jpg");
+	min-height: 100px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 800px;
+	right: 900px;
+}
+
+.img4 {
+	background-image: url("imagem/quarto3.jpg");
+	min-height: 100px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 800px;
+	right: 900px;
+}
+
+.ilha {
+	background-image: url("imagem/ilha.jpg");
+	min-height: 100px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 800px;
+	right: 900px;
+}
+
+.ilha2 {
+	background-image: url("imagem/ilha2.jpg");
+	min-height: 100px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 800px;
+	right: 900px;
+}
+
+.ilha3 {
+	background-image: url("imagem/ilha3.jpg");
+	min-height: 100px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 800px;
+	right: 900px;
+}
+
+.ilha4 {
+	background-image: url("imagem/ilha4.jpg");
+	min-height: 100px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 800px;
+	right: 900px;
+}
+
+
+.preto3 {
+	background-color: black;
+	font-family: Fantasy;
+	color: white;
+	height: 600px;
+	right: 500px;
+	text-align:center;
+}
+
+
+
+
+
